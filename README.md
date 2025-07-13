@@ -1,4 +1,4 @@
-**Housing Price Prediction**
+Housing Price Prediction
 
 This repository contains a machine learning project focused on predicting housing prices using linear regression. The project follows a structured pipeline that includes data loading, preprocessing, exploratory data analysis, model training, and evaluation.
 

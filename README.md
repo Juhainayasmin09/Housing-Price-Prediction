@@ -1,8 +1,7 @@
 ## **Housing Price Prediction**
 
 This repository contains a machine learning project focused on predicting housing prices using linear regression. The project follows a structured pipeline that includes data loading, preprocessing, exploratory data analysis, model training, and evaluation.
-
-
+<br><br>
 
 ### **Project Objective**
 
@@ -55,7 +54,7 @@ Workflow Summary
 	•	Visualize the comparison between predicted and actual values
 
 
-
+<br><br>
 ## How to Run the Project
 
 ### 1. Clone the Repository
@@ -74,7 +73,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 jupyter notebook Set_5_juhaina.ipynb 
 ```
 
-
+<br><br>
 ### Results
 
 •	The model was successfully trained on the dataset using Linear Regression.
@@ -87,12 +86,15 @@ jupyter notebook Set_5_juhaina.ipynb
 
 ### Potential Improvements
 •	Experiment with more advanced regression models (e.g., Ridge, Lasso, XGBoost)
+
 •	Incorporate feature scaling and outlier detection
+
 •	Apply k-fold cross-validation for robust evaluation
+
 •	Perform hyperparameter tuning to optimize model performance
 
 
-
+<br><br>
 ## Author
 
 *Juhaina Yasmin*

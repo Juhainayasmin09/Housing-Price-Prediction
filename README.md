@@ -4,7 +4,7 @@ This repository contains a machine learning project focused on predicting housin
 
 
 
-## **Project Objective**
+### **Project Objective**
 
 The objective of this project is to develop a regression model capable of accurately predicting housing prices based on various features present in the dataset.
 
@@ -20,7 +20,7 @@ Technologies Used
 
 
 
-## **Project Structure**
+### **Project Structure**
 
 ```
 Housing-Price-Prediction/

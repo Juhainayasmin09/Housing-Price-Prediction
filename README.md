@@ -27,6 +27,8 @@ Housing-Price-Prediction/
 ├── housing.csv              # Dataset used for model training
 ├── Set_5_juhaina.ipynb      # Jupyter Notebook containing the full workflow
 ├── README.md                # Project documentation
+├── requirement.txt          # List of all required Python packages
+
 ```
 
 
